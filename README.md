@@ -127,5 +127,5 @@ Intentionally out of scope — these are user data, transient, or not derivable 
 
 Built for Adobe Commerce / Magento Open Source **2.4.x** and **Mage-OS**, **PHP 8.1 – 8.5**.
 
-The unit suite (`Test/Unit/`) runs on **PHPUnit 9.5, 10.5, or 12** — it uses no APIs removed in
-PHPUnit 10/12. Note PHPUnit 12 itself requires PHP 8.3+.
+The unit suite (`Test/Unit/`) runs on **PHPUnit 9.6.33+, 10.5.62+, or 12.5.8+**. It uses no APIs
+removed in PHPUnit 10/12. Note PHPUnit 12 itself requires PHP 8.3+.
